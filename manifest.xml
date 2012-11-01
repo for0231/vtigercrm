@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<module>
+	<type>language</type>
+	<name>简体中文 (Simplified Chinese)</name>
+	<label>简体中文</label>
+	<prefix>zh_cn</prefix>
+	<version>5.4</version>
+	<encoding>UTF-8</encoding>
+	<creationDate>2012-04-28</creationDate>
+	<author>东方新濠 vtiger CRM</author>
+	<dependencies>
+		<vtiger_version>5.4</vtiger_version>
+	</dependencies>
+
+	<license>
+		<inline><![CDATA[
+ --------------------------------------------------------------------------------
+   东方新濠 vtiger CRM 简体中文更新程序
+   支持 http://www.sunhopeit.net 
+ --------------------------------------------------------------------------------
+
+ 许可协议：
+ 1. 本软件产品遵守 GPLv2 使用许可协议。
+ 
+ 
+ ]]>
+		</inline>
+	</license>
+
+</module>

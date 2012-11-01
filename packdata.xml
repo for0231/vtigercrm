@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languagepack>
+	<name>简体中文 (Simplified Chinese)</name>
+	<version>5.4</version>
+	<creationDate>2012-04-28</creationDate>
+	<author>东方新濠 vtiger CRM</author>
+	<prefix>zh_cn</prefix>
+	<lockfor>0</lockfor>
+	<encoding>UTF-8</encoding>
+	<license>GPL</license>
+</languagepack>
